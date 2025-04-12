@@ -1,0 +1,68 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{float}
+\usepackage{geometry}
+ \geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=20mm,
+ top=20mm,
+ }
+ \usepackage{graphicx}
+ \usepackage{titling}
+
+ \title{Assignment 2
+}
+\author{Mushaf Ali Mir}
+\date{November 2024}
+ 
+ \usepackage{fancyhdr}
+\fancypagestyle{plain}{%  the preset of fancyhdr 
+    \fancyhf{} % clear all header and footer fields
+    
+    \fancyfoot[L]{\thedate}
+    \fancyhead[L]{Installing Tools}
+    \fancyhead[R]{\theauthor}
+}
+\makeatletter
+\def\@maketitle{%
+  \newpage
+  \null
+  \vskip 1em%
+  \begin{center}%
+  \let \footnote \thanks
+    {\LARGE \@title \par}%
+    \vskip 1em%
+    %{\large \@date}%
+  \end{center}%
+  \par
+  \vskip 1em}
+\makeatother
+
+\usepackage{lipsum}  
+\usepackage{cmbright}
+
+\begin{document}
+
+\maketitle
+
+\noindent\begin{tabular}{@{}ll}
+    Student & \theauthor\\
+    Roll Number & 24P-0582 \\
+    Section & BCS 1-D
+    
+\end{tabular}
+
+\section*{Linux Installation}
+How are you
+
+\begin{figure}
+    
+\end{figure}
+\begin{tabular}{cols|clos|cols}
+    
+\end{tabular}
+
+
+
+\end{document}

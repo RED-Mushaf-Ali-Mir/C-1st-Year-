@@ -1,0 +1,3 @@
+
+The following file is created using basic concepts of file handling :
+The Wrtitng in a file hmmm 1234444 
