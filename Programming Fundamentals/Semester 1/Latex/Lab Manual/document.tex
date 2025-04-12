@@ -1,0 +1,116 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{multicol}
+\usepackage{hyperref}
+\usepackage[justification=centering]{caption}
+
+\graphicspath{images/pak.jpg}
+
+
+\title{Assignment: Introduction to \LaTeX}
+\author{Mushaf Ali Mir}
+\date{\today}
+
+\begin{document}
+	
+	\maketitle
+	
+	\tableofcontents
+	\newpage
+	
+	\section{Introduction}
+	\LaTeX \space is a document preparation system and typesetting tool widely used for creating documents requiring precise formatting, such as academic papers, theses, technical reports, and books. It is especially powerful for documents that include complex elements like mathematical equations, tables, and bibliographies.
+	\subsection*{\textbf{Markup Language:}}
+	\LaTeX\space content is written in a plain text file using markup to define the structure and formatting. This markup specifies document elements such as titles, sections, and fonts without directly formatting the text, making it adaptable and consistent.
+	\subsection*{\textbf{Document Structure::}}
+	A typical \LaTeX\space document starts by defining the document type, such as an article or report. Content is then placed within the main document section, where \LaTeX\space interprets and formats everything into the final, polished output.
+	\subsection*{\textbf{Compilation:}}
+	After the content is written, the \LaTeX\space file is compiled to produce a final document, often in PDF format. This compilation process allows \LaTeX\space to apply all specified formatting automatically, generating a cohesive and professional-looking document.
+	\subsection*{\textbf{Automatic Formatting and Consistency:}}
+	\LaTeX\space manages font styles, spacing, alignment, and numbering automatically, which is highly useful for complex documents. For instance, it numbers sections, figures, tables, and equations by default, allowing easy organization and automatic updates if content changes.
+	\subsection*{\textbf{Mathematics and Scientific Notation:}}
+	\LaTeX\space is exceptionally strong in handling complex mathematical formulas and scientific notation, making it the go-to choice for scientific, technical, and academic documents that require precise equation formatting.
+	\subsection*{\textbf{Cross-referencing and Citations:}}
+	\LaTeX\space simplifies cross-referencing sections, figures, tables, and equations. Users can label these elements and reference them anywhere in the document, with automatic updates if numbering changes. For citations and bibliographies, \LaTeX\space integrates with tools like BibTeX and bibliography packages to automate consistent citation styles and manage bibliographic entries.
+	\subsection*{\textbf{Flexibility and Customization: }}
+	\LaTeX\space is highly customizable and flexible, with countless packages available to extend its functionality. This flexibility allows users to create everything from simple letters to complex, multi-chapter books, complete with custom layouts, headers, footers, and styles.
+	
+	
+	\section{Specific Instruction} 
+	\begin{itemize}
+		\item Conversion:Mushaf Ali To ASCII
+		\newcommand{\M}[1]{65}
+		\\  77,117,115,104,97,102,65,108,105.
+	\end{itemize}
+	\begin{itemize}
+		\item Registration Number:24P-05\underline{82}, the macro name is quadratic.
+		\newcommand{\quadratic}[3]{{\frac{-#1\pm\sqrt{#2^2-4#1#3}}{2#1}}}
+		\[x=\quadratic{4}{2}{12}\]
+	\end{itemize}
+	\section{Equation}
+	\begin{enumerate}
+		\item Quadratic Equation:
+		\begin{equation}
+			x=\frac{-b\pm \sqrt{b^2-4ac}}{2a}
+		\end{equation}
+		This formula is used to find the roots of a quadratic equation of the form ax2 + bx + c = 0.
+		\newpage
+		\item A summation formula for the sum of the first n positive integers:
+		
+		\begin{equation}
+			S=\sum_{k=1}^{n}k=\frac{n(n+1)}{2}
+		\end{equation}
+		\begin{equation}
+			M = \sum_{k=1}^{n} k = \frac{n(n+1)}{2}
+			
+		\end{equation}
+		
+		\vspace{1cm}
+		This formula calculates the sum of the first n natural numbers.Series of Equation.Using ASCII Values of our name we use macros for the equations.
+		\newcommand{\ascII}[2]{#2=\sum_{k=1}^{#1}k=\frac{#1(#1+1)}{2}}
+		\begin{multicols}{2}
+			\begin{itemize}
+				\item[] \space$\ascII{77}{M}$,\item[] \space$\ascII{102}{u}$,
+				\item[] \space$\ascII{117}{s}$,\item[] \space$\ascII{65}{h}$,
+				\item[]\space $\ascII{115}{a}$,\item[]\space $\ascII{108}{f}$,
+				\item[] \space$\ascII{104}{A}$,\item[] \space$\ascII{105}{l}$,
+				\item[] \space$\ascII{97}{i}$.
+				
+		\end{itemize}\end{multicols}
+		
+	\end{enumerate}
+	
+	\section{Tables}
+	\begin{table}[h]
+		
+		\centering
+		\begin{tabular}{|l|l|l|}
+			\hline\hline
+			\textbf{Features} & \textbf{\LaTeX} & \textbf{Word Processor}\\
+			\hline 
+			\hline
+			\textbf{Precise Formatting}&Advanced, consistent layout& Limited templates.\\
+			\hline 
+			\textbf{Complex Typesetting}&Superior for complex equations.&Basic equation tools.\\
+			\hline   
+			\textbf{Automated Structuring}&Auto-sections, numbering.&Manual management.  \\
+			\hline   
+			\textbf{Bibliography}&Integrated with BibTeX &Requires plugins. \\
+			\hline
+			\textbf{File Compatibility}&Plain text files.&Binary files.\\
+			\hline
+			\textbf{Quality Output}&PDFs with high-quality&less refined.\\
+			\hline
+			
+		\end{tabular}
+		\caption{Comparison between LaTeX and Word Processors}
+		\label{tab:my_label}
+	\end{table}
+	\section*{References}
+	\addcontentsline{toc}{section}{References}
+	\subsection*{Book}
+	Guide to LaTeX By 117 Kopka (H Kopka).
+	\subsection*{Online Tutorial}
+	\href{https://www.youtube.com/watch?v=7B7ytLrMTa0&t=303s&ab_channel=Dr.TreforBazett}{The Online Tutorial is for \LaTeX \space Formatting.(click here)}
+	
+\end{document}
