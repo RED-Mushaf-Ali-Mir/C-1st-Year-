@@ -1,0 +1,9 @@
+P:/Qt Gui Work/Creating_Menus_In_Qt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/Creating_Menus_In_Qt.dir
+P:/Qt Gui Work/Creating_Menus_In_Qt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+P:/Qt Gui Work/Creating_Menus_In_Qt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+P:/Qt Gui Work/Creating_Menus_In_Qt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+P:/Qt Gui Work/Creating_Menus_In_Qt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+P:/Qt Gui Work/Creating_Menus_In_Qt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+P:/Qt Gui Work/Creating_Menus_In_Qt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+P:/Qt Gui Work/Creating_Menus_In_Qt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/Creating_Menus_In_Qt_autogen_timestamp_deps.dir
+P:/Qt Gui Work/Creating_Menus_In_Qt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/Creating_Menus_In_Qt_autogen.dir

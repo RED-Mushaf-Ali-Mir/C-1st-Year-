@@ -1,0 +1,51 @@
+# ninja log v6
+498	6541	7666421383495208	CMakeFiles/Creating_Menus_In_Qt.dir/MenuC.cpp.obj	e1cbc6fb138f28d1
+40	985	7666533954017228	Creating_Menus_In_Qt_autogen/timestamp	5c855b7c91ded008
+40	985	7666533954017228	Creating_Menus_In_Qt_autogen/mocs_compilation.cpp	5c855b7c91ded008
+40	985	7666533954017228	P:/Qt Gui Work/Creating_Menus_In_Qt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Creating_Menus_In_Qt_autogen/timestamp	5c855b7c91ded008
+40	985	7666533954017228	P:/Qt Gui Work/Creating_Menus_In_Qt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Creating_Menus_In_Qt_autogen/mocs_compilation.cpp	5c855b7c91ded008
+986	4661	7666533954991014	CMakeFiles/Creating_Menus_In_Qt.dir/Creating_Menus_In_Qt_autogen/mocs_compilation.cpp.obj	49d827f53e6d3f88
+995	4724	7666533955148083	CMakeFiles/Creating_Menus_In_Qt.dir/mainwindow.cpp.obj	2cebddffc2d300ed
+990	4594	7666533954991014	CMakeFiles/Creating_Menus_In_Qt.dir/main.cpp.obj	6870e8326834bd83
+1000	4682	7666533955212908	CMakeFiles/Creating_Menus_In_Qt.dir/Statusbarr.cpp.obj	31c6005cfd7894e9
+4724	5347	7666533992371605	Creating_Menus_In_Qt.exe	e89ca907d4256dd7
+21	1049	7666538125616083	build.ninja	48d5f1f3ee93053e
+295	414	7666198715407985	Creating_Menus_In_Qt_autogen/EWIEGA46WW/qrc_resource.cpp	cb098e15b8d8510c
+295	414	7666198715407985	P:/Qt Gui Work/Creating_Menus_In_Qt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Creating_Menus_In_Qt_autogen/EWIEGA46WW/qrc_resource.cpp	cb098e15b8d8510c
+428	561	7666198715739918	CMakeFiles/Creating_Menus_In_Qt.dir/Creating_Menus_In_Qt_autogen/EWIEGA46WW/qrc_resource.cpp.obj	d33b3be7bf2b3246
+78	1537	7666546656965511	Creating_Menus_In_Qt_autogen/timestamp	5c855b7c91ded008
+78	1537	7666546656965511	Creating_Menus_In_Qt_autogen/mocs_compilation.cpp	5c855b7c91ded008
+78	1537	7666546656965511	P:/Qt Gui Work/Creating_Menus_In_Qt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Creating_Menus_In_Qt_autogen/timestamp	5c855b7c91ded008
+78	1537	7666546656965511	P:/Qt Gui Work/Creating_Menus_In_Qt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Creating_Menus_In_Qt_autogen/mocs_compilation.cpp	5c855b7c91ded008
+1546	7081	7666546658791038	CMakeFiles/Creating_Menus_In_Qt.dir/main.cpp.obj	6870e8326834bd83
+1560	7282	7666546658953618	CMakeFiles/Creating_Menus_In_Qt.dir/TookbarC.cpp.obj	9940f68e6ec993b7
+1553	7346	7666546658876881	CMakeFiles/Creating_Menus_In_Qt.dir/mainwindow.cpp.obj	2cebddffc2d300ed
+1539	7396	7666546658732819	CMakeFiles/Creating_Menus_In_Qt.dir/Creating_Menus_In_Qt_autogen/mocs_compilation.cpp.obj	49d827f53e6d3f88
+7397	8122	7666546717241851	Creating_Menus_In_Qt.exe	e1e352f31dd10eee
+42	565	7666562253086266	Creating_Menus_In_Qt_autogen/timestamp	5c855b7c91ded008
+42	565	7666562253086266	Creating_Menus_In_Qt_autogen/mocs_compilation.cpp	5c855b7c91ded008
+42	565	7666562253086266	P:/Qt Gui Work/Creating_Menus_In_Qt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Creating_Menus_In_Qt_autogen/timestamp	5c855b7c91ded008
+42	565	7666562253086266	P:/Qt Gui Work/Creating_Menus_In_Qt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Creating_Menus_In_Qt_autogen/mocs_compilation.cpp	5c855b7c91ded008
+575	7343	7666562258410318	CMakeFiles/Creating_Menus_In_Qt.dir/mainwindow.cpp.obj	2cebddffc2d300ed
+567	7519	7666562258332371	CMakeFiles/Creating_Menus_In_Qt.dir/main.cpp.obj	6870e8326834bd83
+98	625	7666563006136797	Creating_Menus_In_Qt_autogen/timestamp	5c855b7c91ded008
+98	625	7666563006136797	Creating_Menus_In_Qt_autogen/mocs_compilation.cpp	5c855b7c91ded008
+98	625	7666563006136797	P:/Qt Gui Work/Creating_Menus_In_Qt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Creating_Menus_In_Qt_autogen/timestamp	5c855b7c91ded008
+98	625	7666563006136797	P:/Qt Gui Work/Creating_Menus_In_Qt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Creating_Menus_In_Qt_autogen/mocs_compilation.cpp	5c855b7c91ded008
+627	4868	7666563011304059	CMakeFiles/Creating_Menus_In_Qt.dir/mainwindow.cpp.obj	2cebddffc2d300ed
+636	5201	7666563011480549	CMakeFiles/Creating_Menus_In_Qt.dir/MenuC.cpp.obj	e1cbc6fb138f28d1
+5202	5851	7666563057176546	Creating_Menus_In_Qt.exe	e1e352f31dd10eee
+85	525	7666563897545161	Creating_Menus_In_Qt_autogen/timestamp	5c855b7c91ded008
+85	525	7666563897545161	Creating_Menus_In_Qt_autogen/mocs_compilation.cpp	5c855b7c91ded008
+85	525	7666563897545161	P:/Qt Gui Work/Creating_Menus_In_Qt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Creating_Menus_In_Qt_autogen/timestamp	5c855b7c91ded008
+85	525	7666563897545161	P:/Qt Gui Work/Creating_Menus_In_Qt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Creating_Menus_In_Qt_autogen/mocs_compilation.cpp	5c855b7c91ded008
+526	6067	7666563901952145	CMakeFiles/Creating_Menus_In_Qt.dir/mainwindow.cpp.obj	2cebddffc2d300ed
+534	6533	7666563902032285	CMakeFiles/Creating_Menus_In_Qt.dir/MenuC.cpp.obj	e1cbc6fb138f28d1
+6533	7090	7666563961961518	Creating_Menus_In_Qt.exe	e1e352f31dd10eee
+69	479	7666564091532758	Creating_Menus_In_Qt_autogen/timestamp	5c855b7c91ded008
+69	479	7666564091532758	Creating_Menus_In_Qt_autogen/mocs_compilation.cpp	5c855b7c91ded008
+69	479	7666564091532758	P:/Qt Gui Work/Creating_Menus_In_Qt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Creating_Menus_In_Qt_autogen/timestamp	5c855b7c91ded008
+69	479	7666564091532758	P:/Qt Gui Work/Creating_Menus_In_Qt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Creating_Menus_In_Qt_autogen/mocs_compilation.cpp	5c855b7c91ded008
+480	6858	7666564095646744	CMakeFiles/Creating_Menus_In_Qt.dir/mainwindow.cpp.obj	2cebddffc2d300ed
+488	7230	7666564095718324	CMakeFiles/Creating_Menus_In_Qt.dir/MenuC.cpp.obj	e1cbc6fb138f28d1
+7230	7900	7666564163144061	Creating_Menus_In_Qt.exe	e1e352f31dd10eee

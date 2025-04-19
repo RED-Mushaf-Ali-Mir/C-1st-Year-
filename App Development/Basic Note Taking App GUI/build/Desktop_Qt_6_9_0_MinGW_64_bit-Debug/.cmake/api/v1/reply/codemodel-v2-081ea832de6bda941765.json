@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5b5706158d2cbb039207.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Creating_Menus_In_Qt",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Creating_Menus_In_Qt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Creating_Menus_In_Qt-Debug-2d14a441938dbf5469e2.json",
+					"name" : "Creating_Menus_In_Qt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Creating_Menus_In_Qt_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Creating_Menus_In_Qt_autogen-Debug-8961d213050545865037.json",
+					"name" : "Creating_Menus_In_Qt_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Creating_Menus_In_Qt_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Creating_Menus_In_Qt_autogen_timestamp_deps-Debug-7aec580a593a3e17276a.json",
+					"name" : "Creating_Menus_In_Qt_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "P:/Qt Gui Work/Creating_Menus_In_Qt/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "P:/Qt Gui Work/Creating_Menus_In_Qt"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
